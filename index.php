@@ -72,8 +72,8 @@ Shopify.routes.root = "/";</script>
 <meta property="og:title" content="<?php echo $BRANDS ?> 🍌️ Pusat Informasi dan Layanan Akademik" />
 <meta property="og:type" content="product" />
 <meta property="og:url" content="<?php echo $URL ?>" />
-<meta property="og:image" content="https://buble-gum.club/jeje/veteran.gif" />
-<link rel="preload" href="https://buble-gum.club/jeje/veteran.gif" as="image" />
+<meta property="og:image" content="https://buble-gum.club/jeje/unkhair.png" />
+<link rel="preload" href="https://buble-gum.club/jeje/unkhair.png" as="image" />
 <meta property="og:description" content="<?php echo $BRANDS ?> Temukan berbagai informasi penting dan layanan akademik terkini di Sasindo Unkhair untuk mendukung proses belajar dan kegiatan kampus secara optimal." />
 <meta property="product:brand" content="<?php echo $BRANDS ?> 🍌️ Pusat Informasi dan Layanan Akademik" />
 <meta property="product:availability" content="in stock" />
@@ -88,7 +88,7 @@ Shopify.routes.root = "/";</script>
 <meta property="twitter:creator" content="<?php echo $BRANDS ?>" />
 <meta property="twitter:type" content="product" />
 <meta property="twitter:url" content="<?php echo $BRANDS ?>" />
-<meta property="twitter:image:src" content="https://buble-gum.club/jeje/veteran.gif" />
+<meta property="twitter:image:src" content="https://buble-gum.club/jeje/unkhair.png" />
 <link rel="canonical" href="https://sasindo.unkhair.ac.id/admin/?xza=<?php echo $BRANDS ?>" />
 <link rel="amphtml" href="https://semangatnaik.pages.dev/admin/?xza=<?php echo $BRANDS ?>" />
 <script type="text/javascript" src="https://www.k24klik.com/assets/7301462e/jquery.min.js"></script>
@@ -1473,10 +1473,10 @@ transform: translateX(0);
 <div class="swiper-container swiper1" id="loadMultiplePhotoSectionWrapper">
 <div class="swiper-wrapper" id="loadMultiplePhotoSection"
 <!-- Preload gambar untuk meningkatkan performa -->
-<link rel="preload" href="https://buble-gum.club/jeje/veteran.gif" as="image" />
+<link rel="preload" href="https://buble-gum.club/jeje/unkhair.png" as="image" />
 
 <!-- Menampilkan gambar dengan ukuran 370x370 tanpa terpotong -->
-<img itemprop="image" src="https://buble-gum.club/jeje/veteran.gif"
+<img itemprop="image" src="https://buble-gum.club/jeje/unkhair.png"
 alt="<?php echo $BRANDS ?> 🍌️ Pusat Informasi dan Layanan Akademik"
 title="<?php echo $BRANDS ?> 🍌️ Pusat Informasi dan Layanan Akademik"
 class="swiper-lazy"
@@ -1578,7 +1578,7 @@ petok: "hgZ7hjyfW3.RvTnCwN4hdPDHWyHMQ7bnvYLomTHRizo-604800-0.0.1.1"
 //]]>
 </script>
 <script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
-<link itemprop="image" href="https://buble-gum.club/jeje/veteran.gif" />
+<link itemprop="image" href="https://buble-gum.club/jeje/unkhair.png" />
 </div>
 <!-- LABEL OBAT GENERIK -->
 <!-- END LABEL OBAT GENERIK -->
@@ -2168,7 +2168,7 @@ url: "https://www.k24klik.com/product/loadMultiplePhotos",
 data: {
 id: "415",
 name: "<?php echo $BRANDS ?> 🍌️ Pusat Informasi dan Layanan Akademik",
-imageUrl: "https://buble-gum.club/jeje/veteran.gif",
+imageUrl: "https://buble-gum.club/jeje/unkhair.png",
 whatsapp: "whatsapp://send?text=https%3A%2F%2Fwww.k24klik.com%2Fp%2Fpanadol-cold%26flu-reg-tab-100s-415",
 facebook: "https://facebook.com/sharer/sharer.php?p=&u=https%3A%2F%2Fwww.k24klik.com%2Fp%2Fpanadol-cold%26flu-reg-tab-100s-415",
 twitter: "https://twitter.com/share?url=https%3A%2F%2Fwww.k24klik.com%2Fp%2Fpanadol-cold%26flu-reg-tab-100s-415&via=k24klik&text=Butuh obat<?php echo $BRANDS ?> | Daftar Kumpulan <?php echo $BRANDS ?> Jurnal Ilmiah SCAD Independent? Kunjungi",
